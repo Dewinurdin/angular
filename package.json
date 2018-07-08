@@ -1,6 +1,10 @@
 {
   "name": "my-dream-app",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewinurdin/my-dream-app.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
